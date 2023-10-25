@@ -19,8 +19,37 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 <h2>Ticket Lifecycle Stages</h2>
 
-- Intake- After I created my virtual machines in microsoft azure and set up Os-Ticket I set my self as the admin and created agents.
-- Assignment and Communication- Next I set up defferent practical tickets and gave them different priority statuses based off company impact.
-- Working the Issue-Some tickets are quick fixes wich you simply solve and move on to the next one,while others may take longer but it's important to stay in contact with the client even if you don't have any new updates.
-- Resolution- The tickets that I resloved in my lab i simply closed.
+- Intake
+- Assignment and Communication
+- Working the Issue
+- Resolution
+
+
+<h2>Lifecycle Stages</h2>
+
+1. Intake
+
+   ![creating ticket in osTicket](https://github.com/meganhoose/ticket-lifecycle/assets/142938638/9d78f21b-17f0-4edc-83e5-f06d591e6b58)
+
+
+2. Assignment and Communication
+
+   ![jane doe tickets in osTicket](https://github.com/meganhoose/ticket-lifecycle/assets/142938638/0ee69c25-7a1a-4858-b746-738396dd519e)
+
+
+   ![updating priority, SLA, and assigned to on ticket](https://github.com/meganhoose/ticket-lifecycle/assets/142938638/1768e9cc-1242-4ebb-936b-ab0245b3488d)
+
+
+
+
+4. Working the Issue
+
+   ![resolved and closed ticket 2](https://github.com/meganhoose/ticket-lifecycle/assets/142938638/9add28f6-1505-46d8-bdc5-f6e1ec3fef9d)
+
+
+
+5. Resolution
+
+   ![resolved and closed ticket](https://github.com/meganhoose/ticket-lifecycle/assets/142938638/e61d3648-b14a-4e83-80e3-11918d8545b8)
+
 
