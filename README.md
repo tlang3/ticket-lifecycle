@@ -22,5 +22,5 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 - Intake- After I created my virtual machines in microsoft azure and set up Os-Ticket I set my self as the admin and created agents.
 - Assignment and Communication- Next I set up defferent practical tickets and gave them different priority statuses based off company impact.
 - Working the Issue-Some tickets are quick fixes wich you simply solve and move on to the next one,while others may take longer but it's important to stay in contact with the client even if you don't have any new updates.
-- Resolution- The tickets that I resloved in my lab i simply closed
+- Resolution- The tickets that I resloved in my lab i simply closed.
 
